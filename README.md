@@ -35,12 +35,13 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
+1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
 2. Publish your code to a web address. This will also be useful you can share the URL for your project.
 3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. We do not recommend using any framework, but you are free to use it if you want or see it necessary.
-6. If you use gulp or a compiler, don't forget to share the uncompiled version with us.
+4. Do not forget to stick to a methodology while doing this, `OOCSS` or `BEM` etc.
+5. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
+6. We do not recommend using any framework, but you are free to use it if you want or see it necessary.
+7. If you use gulp or a compiler, don't forget to share the uncompiled version with us.
 
 ## Sharing your solution
 
