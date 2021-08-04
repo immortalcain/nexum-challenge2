@@ -25,7 +25,7 @@ Göreviniz, projeyi `/design` klasörü içindeki tasarımlara uygun şekilde ya
 
 Bu yarışmada, her iki sayfa için de mobil ve masaüstü tasarımları bulacaksınız.
 
-Tasarımlar JPG statik formatındadır. JPG'leri kullanmak, `font-size`, `padding` ve `margin` gibi stiller için en iyi kararınızı kullanmanız gerektiği anlamına gelir. Bunlarda mükemmellik beklemiyoruz.
+Tasarımlar JPG statik formatındadır. JPG'leri kullanmak, `font-size`, `padding` ve `margin` gibi stiller için en benzer şekilde kendiniz karar vermeniz gerektiği anlamına gelir. Bunlarda mükemmellik beklemiyoruz.
 
 Ülke bayrakları [REST Countries API](https://restcountries.eu) çekileceğinden ve simgeler için bir simge yazı tipi kitaplığı kullanabileceğiniz için bu zorluk için herhangi bir varlık yoktur.
 
