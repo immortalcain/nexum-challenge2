@@ -9,7 +9,7 @@ zorluklar, gerçekçi projeler oluşturarak kodlama becerilerinizi geliştirmeni
 
 ## Meydan okuma
 
-Göreviniz, ülke verilerini çekmek ve tasarımlarda olduğu gibi görüntülemek için [REST Countries API](https://restcountries.eu) ile entegre olmaktır.
+Göreviniz, ülke verilerini çekmek ve tasarımlarda olduğu gibi görüntülemek için [REST Countries API](https://restcountries.com/) ile entegre olmaktır.
 
 Kullanıcılarınız şunları yapabilmelidir:
 
@@ -27,7 +27,7 @@ Bu yarışmada, her iki sayfa için de mobil ve masaüstü tasarımları bulacak
 
 Tasarımlar JPG statik formatındadır. JPG'leri kullanmak, `font-size`, `padding` ve `margin` gibi stiller için en benzer şekilde kendiniz karar vermeniz gerektiği anlamına gelir. Bunlarda mükemmellik beklemiyoruz.
 
-Ülke bayrakları [REST Countries API](https://restcountries.eu) çekileceğinden ve simgeler için bir simge yazı tipi kitaplığı kullanabileceğiniz için bu zorluk için herhangi bir varlık yoktur.
+Ülke bayrakları [REST Countries API](https://restcountries.com/) çekileceğinden ve simgeler için bir simge yazı tipi kitaplığı kullanabileceğiniz için bu zorluk için herhangi bir varlık yoktur.
 
 Renk paleti ve yazı tipleri gibi ihtiyacınız olan bilgileri içeren bir `style-guide.md` dosyası da vardır.
 
