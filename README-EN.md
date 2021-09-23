@@ -9,7 +9,7 @@ challenges help you improve your coding skills by building realistic projects.
 
 ## The challenge
 
-Your challenge is to integrate with the [REST Countries API](https://restcountries.eu) to pull country data and display it like in the designs.
+Your challenge is to integrate with the [REST Countries API](https://restcountries.com/) to pull country data and display it like in the designs.
 
 Your users should be able to:
 
@@ -27,7 +27,7 @@ In this challenge, you will find mobile and desktop designs for both pages.
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. We do not expect perfection in them.
 
-There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.eu) and you can use an icon font library for the icons.
+There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.com/) and you can use an icon font library for the icons.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
